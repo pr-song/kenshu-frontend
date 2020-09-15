@@ -131,4 +131,7 @@ ul {
     font-size: 13px;
     color: #BFC9D7;
 }
+.header-intro-nav .header-intro-nav-link:hover {
+    color: rgba(255, 255, 255, 0.99)
+}
 /* end header */
