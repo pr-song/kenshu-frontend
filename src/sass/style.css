@@ -82,7 +82,7 @@ ul {
 .header-search__form {
   display: flex;
 }
-.header-search__forminput[type=text] {
+.header-search__form input[type=text] {
   outline: none;
 }
 .header-search__input {
