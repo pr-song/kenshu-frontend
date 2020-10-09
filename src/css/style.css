@@ -292,7 +292,7 @@ ul {
     border-bottom: 1px solid #e4e4e4;
     position: relative;
 }
-.articles__container>.article:nth-child(2n) {
+.article:nth-child(2n) {
     margin-left: auto;
 }
 .article__link {

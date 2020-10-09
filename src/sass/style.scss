@@ -1,0 +1,23 @@
+@charset "UTF-8";
+html {
+    line-height: 1.15;
+}
+* {
+    box-sizing: border-box;
+}
+*::before, *::after {
+    box-sizing: inherit;
+}
+body {
+    margin: 0;
+}
+a:link, a:hover, a:active {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+}
+@import 'header';
+@import 'main';
+@import 'footer';
