@@ -1,7 +1,6 @@
-$prtimes-color: #294C7A;
 /* header */
 .header {
-    background-color: $prtimes-color;
+    background-color: $bg-prtimes;
     min-width: 1125px;
 }
 .header-container {
@@ -133,7 +132,7 @@ $prtimes-color: #294C7A;
         padding: 0 10px;
     }
     &__link {
-        color: $prtimes-color;
+        color: $bg-prtimes;
         font-size: 13px;
         &--active {
             font-weight: bold;
@@ -179,7 +178,7 @@ $prtimes-color: #294C7A;
         top: 0;
         left: 0;
         width: 24px;
-        background-color: $prtimes-color;
+        background-color: $bg-prtimes;
         color: #fff;
         font-family: Roboto;
         font-style: italic;

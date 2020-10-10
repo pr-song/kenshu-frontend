@@ -1,4 +1,3 @@
-$footer-text-color: #797979;
 /* footer */
 .footer {
     min-width: 1125px;
@@ -35,7 +34,7 @@ $footer-text-color: #797979;
     }
     &__link {
         font-size: 12px;
-        color: $footer-text-color;
+        color: $text-footer;
         padding-bottom: 10px;
     }
 }
@@ -50,7 +49,7 @@ $footer-text-color: #797979;
     }
     &__link {
         font-size: 12px;
-        color: $footer-text-color;
+        color: $text-footer;
         line-height: 1.5;
     }
 }
@@ -58,7 +57,7 @@ $footer-text-color: #797979;
     padding-bottom: 10px;
     &__text {
         font-size: 11px;
-        color: $footer-text-color;
+        color: $text-footer;
     }
 }
 /* end footer */
